@@ -68,8 +68,8 @@ The dataset contains 891 passengers and the following columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dircapwonder/Basic-Titanic-ML-Analysis.git
-   cd Basic-Titanic-ML-Analysis
+   git clone https://github.com/dircapwonder/Basic-Titanic-Analysis.git
+   cd Basic-Titanic-Analysis
    ```
 2. Install the dependencies:
    ```bash
